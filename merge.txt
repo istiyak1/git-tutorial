@@ -1,1 +1,1 @@
-merge conflict will happen on same file name
+merge will conflict
